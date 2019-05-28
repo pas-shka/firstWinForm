@@ -1,0 +1,10 @@
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.Form1.resources
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.Properties.Resources.resources
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.GenerateResource.cache
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\RegForm\RegForm\bin\Debug\RegForm.exe.config
+C:\Users\Pavel\source\repos\RegForm\RegForm\bin\Debug\RegForm.exe
+C:\Users\Pavel\source\repos\RegForm\RegForm\bin\Debug\RegForm.pdb
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.exe
+C:\Users\Pavel\source\repos\RegForm\RegForm\obj\Debug\RegForm.pdb
